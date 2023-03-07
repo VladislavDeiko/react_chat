@@ -1,5 +1,4 @@
 import React from 'react'
-import Add from "../assets/add.png"
 
 export const Login = () => {
   return (
